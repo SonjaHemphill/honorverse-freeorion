@@ -1,3 +1,4 @@
+//change to either laser point defense or autocanon. Maybe make you start with auto canon, and rescearch LPD?
 Part
     name = "SR_WEAPON_0_1"
     description = "SR_WEAPON_0_1_DESC"
